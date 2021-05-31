@@ -1,6 +1,6 @@
 # Rust & WebAssembly Markdown Convertor
 
-Rust Markdown convertor which complies to wasm(WebAssembly). So it can be used in both back-end and front-end(powered by [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)).
+Rust Markdown Convertor which is complied to wasm(WebAssembly) can be used in both back-end and front-end(powered by [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)).
 
 ## Rust compile to js(wasm)
 
